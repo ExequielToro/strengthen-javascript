@@ -17,6 +17,10 @@ Este repositorio contiene mis **prácticas y mini proyectos en JavaScript**, org
 - Practicar con ejemplos reales y mini proyectos.  
 - Aplicar buenas prácticas de GitHub y control de versiones.  
 
+## 🧪 Pruebas
+
+En el futuro, se incluirán ejemplos de pruebas automatizadas para practicar QA con JavaScript.
+
 ## 🚀 Cómo usar este repositorio
 
 1. Clonar el repositorio:
