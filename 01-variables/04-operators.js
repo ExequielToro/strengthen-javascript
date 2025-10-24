@@ -39,12 +39,7 @@ console.log(a > b)
 console.log(a < b)
 console.log(a >= b)
 console.log(a <= b)
-console.log(a == b)
-console.log(a == 6) 
-console.log(a == a) // Igualdad por valor
-console.log(a == "6") // Igualdad por valor
-console.log(a === a) //Igualdad por identidad (por tipo y valor)
-console.log(a === "6")
+
 console.log(a != 6)
 console.log(a !== "6")
 console.log(0 == false)
