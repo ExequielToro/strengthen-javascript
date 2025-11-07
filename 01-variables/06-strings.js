@@ -25,7 +25,7 @@ console.log(greeting.indexOf("Pablo"))
 console.log(greeting.indexOf("toro")) // no hay ningun indice que corresponda significa eñ -1
 console.log(greeting.includes("Hola"))
 console.log(greeting.includes("Pablo"))
-console.log(greeting.includes("toro")) // es pra ver si existe la variable
+console.log(greeting.includes("toro")) // es para ver si existe la variable
 console.log(greeting.slice(0,10))
 console.log(greeting.replace("pablo", "toro"))
 
