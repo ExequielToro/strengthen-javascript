@@ -1,5 +1,6 @@
 // array
 
+
 // Declaración
 
 let myArray  = []
